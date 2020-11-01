@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">zomato_c</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="title">
+        <item>Janta Thali</item>
+        <item>Sabzi Wale</item>
+        <item>Indian foods</item>
+        <item>Gods Resturant</item>
+        <item>Food Brake</item>
+        <item>Foodies</item>
+        <item>Take Bite</item>
+        <item>Aman foods</item>
+        <item>Fast Food</item>
+        <item>Yummy Tummy</item>
+    </string-array>
+    <string-array name="Description">
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+        <item>this is about Learning </item>
+    </string-array>
+
+
+</resources>
